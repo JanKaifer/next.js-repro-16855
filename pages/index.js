@@ -1,3 +1,4 @@
+import React from 'react'
 import a from '../a.cjs'
 
 
